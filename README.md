@@ -1,2 +1,3 @@
-# comprasgov-insights
-Repositório do projeto ComprasGov InSights
+# ComprasGov InSights
+
+Repositório do projeto ComprasGov InSights.

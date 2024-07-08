@@ -7,8 +7,14 @@ Trata-se é um ecossistema de desenvolvimento e manutenção de modelos de machi
 ## Documentação
 Para mais detalhes sobre o projeto, incluindo guias de instalação, uso e contribuição, acesse nosso [Wiki](https://github.com/gestaogovbr/comprasgov-insights/wiki).
 
-## Contribuindo
-Contribuições são bem-vindas! Veja o nosso Guia de Contribuição para mais informações.
+## Guia de Instalação
+Para instalar e configurar o ComprasGov Insights, siga o Guia de Instalação.
+
+## Guias de Uso
+Para aprender a utilizar o sistema e suas funcionalidades, acesse os Guia de Uso.
+
+##Contribuindo para o Projeto
+Contribuições são bem-vindas! Veja o nosso Guia de Contribuição.
 
 ## Contato
 Para perguntas e discussões sobre o projeto, utilize o [Fórum de Discussão](https://github.com/gestaogovbr/comprasgov-insights/discussions).

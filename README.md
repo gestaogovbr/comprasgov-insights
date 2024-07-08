@@ -1,4 +1,4 @@
-# ComprasGov InSights
+# ComprasGov InSights (PRE-RELEASE)
 
 Bem-vindo ao repositório do ComprasGov InSights! Este projeto, ainda em fase de desenvolvimento, fará parte da iniciativa de transformação digital da Coordenação-Geral de Assuntos Estratégicos do Departamento de Logística da Secretaria da Gestão do Ministério da Gestão e Inovação (MGI) do Governo Federal do Brasil. Nosso objetivo é melhorar a eficiência e transparência dos processos de compras públicas através de inteligência artificial (IA).
 
